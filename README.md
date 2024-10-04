@@ -41,9 +41,9 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
   <details>	
     <summary><b>📚 Recent Projects/ Activity</b></summary><br>
 
-  ✨ [Billing System](https://github.com/Sri5275/BillingSystem)<br>
+  ✨ [BillingSystem](https://github.com/Sri5275/BillingSystem)<br>
   ✨ [HeartDiseaseRiskAssessment](https://github.com/Sri5275/HeartDiseaseRiskAssessment)<br>
-  ✨ [Frontend of CodeQualityGradingUsingPipelines](https://github.com/Sri5275/CodeAnalysisClient)<br> 
-  ✨ [Backend of CodeQualityGradingUsingPipelines](https://github.com/Sri5275/PBL)<br>
+  ✨ [FrontendOfCodeQualityGradingUsingPipelines](https://github.com/Sri5275/CodeAnalysisClient)<br> 
+  ✨ [BackendOfCodeQualityGradingUsingPipelines](https://github.com/Sri5275/PBL)<br>
 
   </details> 
