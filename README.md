@@ -36,3 +36,14 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 <img src="https://images.credly.com/size/680x680/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" width="100px" height="100px" />
 </div>
 </details> 
+<!--- 3rd Section on Recent Projects -->
+
+  <details>	
+    <summary><b>📚 Recent Projects/ Activity</b></summary><br>
+
+  ✨ [Billing System](https://github.com/Sri5275/BillingSystem)<br>
+  ✨ [HeartDiseaseRiskAssessment](https://github.com/Sri5275/HeartDiseaseRiskAssessment)<br>
+  ✨ [Frontend of CodeQualityGradingUsingPipelines](https://github.com/Sri5275/CodeAnalysisClient)<br> 
+  ✨ [Backend of CodeQualityGradingUsingPipelines](https://github.com/Sri5275/PBL)<br>
+
+  </details> 
