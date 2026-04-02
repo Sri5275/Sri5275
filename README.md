@@ -10,7 +10,7 @@
 ✨ Student  
 📫 How to reach me: [saketh1844@gmail.com]() or [LinkedIn](https://www.linkedin.com/in/sakethramreddy/)<br>
 [![An image of @sri5275's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sri5275)](https://holopin.io/@sri5275)
-💬 Ask me about Full Stack/Machine Learning.<br>
+💬 Ask me about Machine Learning.<br>
 <!--- Adding Tech Stack open Section -->
 
 
